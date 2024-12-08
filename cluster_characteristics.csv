@@ -1,0 +1,6 @@
+,Calories_Burned,Calories_Burned,Calories_Burned,Calories_Burned,Session_Duration (hours),Session_Duration (hours),Session_Duration (hours),Max_BPM,Max_BPM,Max_BPM,Avg_BPM,Avg_BPM,Avg_BPM,Fat_Percentage,Fat_Percentage,Fat_Percentage,Workout_Frequency (days/week),Workout_Frequency (days/week),Workout_Frequency (days/week),Workout_Type,Workout_Type
+,mean,max,min,std,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,<lambda_0>,count
+Cluster,,,,,,,,,,,,,,,,,,,,,
+0,1036.6363636363637,1783.0,303.0,333.5536683486994,1.2066776859504131,0.5,1.75,179.37851239669422,160.0,199.0,145.11900826446282,120.0,169.0,23.419834710743803,10.0,35.0,3.2264462809917354,2.0,5.0,Strength,555
+1,1025.335652173913,1783.0,303.0,314.0447387598396,1.2181217391304346,0.5,1.82,180.5113043478261,160.0,199.0,145.0608695652174,120.0,169.0,23.842434782608695,10.0,35.0,3.3460869565217393,2.0,5.0,Cardio,575
+2,1031.4603524229076,1783.0,303.0,331.67818915615544,1.8611894273127754,1.36,2.0,181.0286343612335,160.0,199.0,149.1013215859031,120.0,169.0,23.28612334801762,10.0,35.0,3.473568281938326,2.0,5.0,Strength,448
